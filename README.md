@@ -2,4 +2,4 @@
 
 This project is a fork of great source project 
 
-[https://github.com/peterfreeman/ngx-dropzone](Source project)
+[Source project](https://github.com/peterfreeman/ngx-dropzone)
